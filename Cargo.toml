@@ -1,0 +1,16 @@
+[package]
+name = "ultimate-server-core"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies.tower-lsp]
+version = "*"
+
+[dependencies.dashmap]
+version = "5"
+
+[dependencies.ropey]
+version = "1"
+
+[dependencies.percent-encoding]
+version = "2.1.0"
